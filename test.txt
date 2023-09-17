@@ -1,0 +1,1 @@
+      "[2023-09-16 12:49:48.220408][LV.ERROR][FT.CfgMgrThread][virtual bool ProtocolPB::Config::__Task::STCfg::CLoader::LoadCfg(const char **, const JLib::CCfgSet \u0026, ProtocolPB::Config::__Task::STCfg \u0026, JLib::ILogger *) const:32008]:LoadFile(../..//resources/client/Configs/Task_cfg.json) failed",
